@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\PaymentServiceTest::testCreateOrder":8,"Tests\\PaymentServiceTest::testRefund":8,"Tests\\PaymentServiceTest::testReverse":8,"Tests\\PaymentServiceTest::testInstallment":8,"Tests\\PaymentServiceTest::testSaveCard":8},"times":[]}

@@ -1,0 +1,30 @@
+{
+    "name": "markup/kapitalbank-api",
+    "description": "Kapital Bank API integration for Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KapitalBankAPI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ağa Mustafayev",
+            "email": "ornek@example.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/support": "^11.16",
+        "guzzlehttp/guzzle": "^7.9",
+        "phpunit/phpunit": "^11.2"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "KapitalBankAPI\\Providers\\PaymentServiceProvider"
+            ]
+        }
+    }
+}
