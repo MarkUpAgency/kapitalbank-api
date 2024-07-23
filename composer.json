@@ -1,5 +1,5 @@
 {
-    "name": "markup/kapitalbank-api",
+    "name": "markupagency/kapitalbank-api",
     "description": "Kapital Bank API integration for Laravel.",
     "type": "library",
     "license": "MIT",

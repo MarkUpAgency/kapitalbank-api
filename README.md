@@ -8,7 +8,7 @@ Bu paket, Laravel projelerinde Kapital Bank API ilə entegrasiya təmin edir.
 ### Composer ilə quraşdırma
 
 ```bash
-composer require markup/kapitalbank-api
+composer require markupagency/kapitalbank-api
 ```
 
 ### Konfiqurasiya

@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'markup/kapitalbank-api',
+        'name' => 'markupagency/kapitalbank-api',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => null,
